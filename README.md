@@ -1,7 +1,7 @@
 # Combat text game
 Simple text combat game between a Player and a Monster. Each character has random generated attributes at the beginning of each fight, and they are also capable, depending on their luck, of using special skills or dodging attacks. A fight is over when one of the character has no health remaining, or when the fight reached 20 turns. 
 
-# Output example
+# Sample Output
 			  Player 		 Monster
 	Health:		   122 			   94
 	Strength:	   80 			   87
